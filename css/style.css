@@ -420,7 +420,7 @@ label {
   color: #e5261e;
 }
 
-@media (min-width: 389px) and (max-width: 600px) {
+@media (min-width: 200px) and (max-width: 391px) {
   .header{
       flex-direction: column;
       height: auto;
